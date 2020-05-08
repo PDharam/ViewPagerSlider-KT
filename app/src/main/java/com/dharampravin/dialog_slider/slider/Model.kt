@@ -1,4 +1,4 @@
-package com.dharampravin.mainactivity.slider
+package com.dharampravin.dialog_slider.slider
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

@@ -1,8 +1,8 @@
-package com.dharampravin.mainactivity.slider
+package com.dharampravin.dialog_slider.slider
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.dharampravin.mainactivity.R
+import com.dharampravin.dialog_slider.R
 import kotlinx.android.synthetic.main.activity_dialog_slider.*
 
 class DialogSliderActivity : AppCompatActivity() {

@@ -1,4 +1,4 @@
-package com.dharampravin.mainactivity
+package com.dharampravin.dialog_slider
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.dharampravin.mainactivity">
+    package="com.dharampravin.dialog_slider">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <application
@@ -11,9 +11,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".slider.DialogSliderActivity"
+            android:name="com.dharampravin.dialog_slider.slider.DialogSliderActivity"
             android:theme="@style/Theme.Transparent"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.dharampravin.dialog_slider.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

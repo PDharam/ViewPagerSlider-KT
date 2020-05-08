@@ -1,4 +1,4 @@
-package com.dharampravin.mainactivity.slider
+package com.dharampravin.dialog_slider.slider
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.viewpager.widget.PagerAdapter
 import coil.api.load
-import com.dharampravin.mainactivity.R
+import com.dharampravin.dialog_slider.R
 import kotlinx.android.synthetic.main.item_dialog.view.*
 
 class DialogSliderAdapter(var list: MutableList<Model>, var context: Context) : PagerAdapter() {

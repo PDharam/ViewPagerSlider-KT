@@ -1,4 +1,4 @@
-package com.dharampravin.mainactivity
+package com.dharampravin.dialog_slider
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
